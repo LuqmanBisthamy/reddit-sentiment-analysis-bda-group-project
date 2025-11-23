@@ -24,7 +24,7 @@ A Method Based on Text Mining and Predictive Analysis**
 ## 📥 Dataset  
 - Source: **Kaggle**  
 - Size: **4.15 GB Reddit Dataset**  
-- Link: https://www.kaggle.com/datasets (Add your exact dataset link here)
+- Link: https://www.kaggle.com/datasets/asaniczka/reddit-on-israel-palestine-daily-updated
 
 The dataset contains Reddit posts, comments, metadata, and user-generated text used for sentiment and predictive modeling.
 
