@@ -99,7 +99,7 @@ jupyter notebook
 
 ## 🗂️ Project Workflow Diagram
 
-[![BDA Flowchart](GP_BDA_flowchart.png)](GP_BDA_flowchart.png)
+[![BDA Flowchart](GP BDA.drawio.png)](GP BDA.drawio.png)
 
 ## 📄 License
 
