@@ -97,10 +97,10 @@ jupyter notebook
 ```
 3. Run the cells in order inside BDA_Group_Project.ipynb
 
-🗂️ Project Workflow Diagram
+## 🗂️ Project Workflow Diagram
 
 ![BDA Flowchart](GP BDA.drawio.png)
 
-📄 License
+## 📄 License
 
 This project is released for academic purposes only.
